@@ -23,6 +23,10 @@ h1 {
     padding: 2.7rem 0;
 }
 
+p {
+    padding-bottom: 1rem;
+}
+
 a {
     font-size: 1rem;
     font-family: inherit;
@@ -38,11 +42,9 @@ h2
     color: white;
 }
 
-p {
-   font-size: 1.3125rem;
-   font-family: inherit;
-   color: gray;
-   padding-bottom: 1.2rem;
+h4 {
+    color: grey;
+    font-size: 1.3125rem;
 }
 
 img {
@@ -55,7 +57,10 @@ img:last-child {
 
 .copy-right {
     text-align: right;
+    font-size: 1.3125rem;
+    color: grey;
     padding-right: 0.90rem;
-    padding-bottom: 1.50rem;
+    padding-bottom: 0.90rem;
+    margin-top: 1.40rem;
 }
 
